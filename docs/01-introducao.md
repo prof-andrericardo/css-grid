@@ -103,7 +103,7 @@ Abaixo está um exemplo simples de como usar o CSS Grid para criar uma **estrutu
 
 ### 🖼️ Visualização do exemplo no navegador:
 
-![Exemplo de layout usando CSS Grid](../imagens/exemplo1.png)
+![Exemplo de layout usando CSS Grid](https://github.com/prof-andrericardo/css-grid/blob/main/imagens/exemplo1.png)
 
 ---
 
