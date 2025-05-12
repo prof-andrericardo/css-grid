@@ -177,4 +177,4 @@ Com o domínio de `grid-template-columns`, `grid-template-rows`, `fr`, `repeat()
 
 👉 No próximo capítulo, aprenderemos como **posicionar itens manualmente** dentro da grade, utilizando `grid-column-start`, `grid-row-end`, `grid-area` e áreas nomeadas.
 
-➡️ [**Capítulo 04 – Posicionamento de Itens**](https://chatgpt.com/g/g-p-67b32319cdf48191b772dac06587dce2-uc15/c/04-posicionamento.md)
+➡️ [**Capítulo 04 – Posicionamento de Itens**](./04-posicionamento.md)

@@ -168,5 +168,5 @@ Crie uma grade com 3 colunas e 2 linhas, onde os itens sejam distribuídos autom
 
 👉 No próximo capítulo, vamos aprender a **criar o nosso próprio grid do zero**, definindo manualmente colunas, linhas e tamanhos com `grid-template-columns` e `grid-template-rows`.
 
-➡️ [**Capítulo 03 – Criando um Grid**](https://chatgpt.com/g/g-p-67b32319cdf48191b772dac06587dce2-uc15/c/03-criando-grid.md)
+➡️ [**Capítulo 03 – Criando um Grid**](./03-criando-grid.md)
 

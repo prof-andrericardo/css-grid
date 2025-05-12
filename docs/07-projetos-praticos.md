@@ -202,5 +202,5 @@ Simular um painel de controle com CSS Grid utilizando áreas nomeadas (`grid-tem
 
 👉 No próximo capítulo, vamos explorar **ferramentas online, geradores de grid, extensões úteis e plataformas com desafios práticos**, que ajudarão a aprofundar ainda mais o domínio sobre CSS Grid.
 
-➡️ [**Capítulo 08 – Ferramentas e Recursos**](https://chatgpt.com/g/g-p-67b32319cdf48191b772dac06587dce2-uc15/c/08-ferramentas.md)
+➡️ [**Capítulo 08 – Ferramentas e Recursos**](./08-ferramentas.md)
 

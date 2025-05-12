@@ -142,5 +142,5 @@ Em alguns casos, é interessante aplicar regras específicas com `@media`.
 
 👉 No próximo capítulo, aplicaremos todos os conhecimentos adquiridos em **projetos reais com CSS Grid**, incluindo layout de página, galeria de imagens e um dashboard simples.
 
-➡️ [**Capítulo 07 – Projetos Práticos**](https://chatgpt.com/g/g-p-67b32319cdf48191b772dac06587dce2-uc15/c/07-projetos-praticos.md)
+➡️ [**Capítulo 07 – Projetos Práticos**](./07-projetos-praticos.md)
 

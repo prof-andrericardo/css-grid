@@ -122,4 +122,4 @@ No Google Chrome, acesse o painel **"Layout"** no DevTools, marque a opção **"
 
 👉 No próximo capítulo, vamos aprender as **boas práticas de desenvolvimento com CSS Grid**, para evitar armadilhas comuns e escrever código mais limpo, legível e eficiente.
 
-➡️ [**Capítulo 09 – Boas Práticas com CSS Grid**](09-boas-praticas.md)
+➡️ [**Capítulo 09 – Boas Práticas com CSS Grid**](./09-boas-praticas.md09-boas-praticas.md)

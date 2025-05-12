@@ -175,5 +175,5 @@ Com isso, você eleva a qualidade dos seus projetos e se aproxima dos padrões u
 ➡️ Parabéns! Ao concluir o próximo capítulo, você terá finalizado sua jornada essencial em CSS Grid.
 
 👉 Siga para o último capítulo:
- [**Capítulo 10 – Referências e Créditos**](10-referencias.md)
+ [**Capítulo 10 – Referências e Créditos**](./10-referencias.md10-referencias.md)
 

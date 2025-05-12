@@ -1,8 +1,3 @@
-Perfeito! Abaixo está o conteúdo completo do arquivo `docs/04-posicionamento.md`, seguindo todas as instruções e mantendo o mesmo padrão didático dos capítulos anteriores.
-
-------
-
-```markdown
 # 🧩 Capítulo 04 – Posicionamento de Itens
 
 > 📘 **Objetivo do capítulo**: Aprender a posicionar manualmente itens dentro do grid utilizando propriedades específicas e atalhos, além de compreender o uso de áreas nomeadas.  
@@ -14,19 +9,18 @@ Perfeito! Abaixo está o conteúdo completo do arquivo `docs/04-posicionamento.m
 
 Por padrão, o CSS Grid posiciona os itens **automaticamente** da esquerda para a direita, linha após linha. No entanto, podemos **posicionar qualquer item em qualquer célula da grade** manualmente, utilizando propriedades específicas:
 
-| Propriedade           | Descrição                                  |
-|------------------------|--------------------------------------------|
-| `grid-column-start`   | Onde o item **começa** na coluna           |
-| `grid-column-end`     | Onde o item **termina** na coluna          |
-| `grid-row-start`      | Onde o item **começa** na linha            |
-| `grid-row-end`        | Onde o item **termina** na linha           |
+| Propriedade         | Descrição                         |
+| ------------------- | --------------------------------- |
+| `grid-column-start` | Onde o item **começa** na coluna  |
+| `grid-column-end`   | Onde o item **termina** na coluna |
+| `grid-row-start`    | Onde o item **começa** na linha   |
+| `grid-row-end`      | Onde o item **termina** na linha  |
 
 ---
 
 ## 🔢 2. Linhas do Grid: Numeração
 
 No CSS Grid, as linhas **são numeradas a partir de 1**, da esquerda para a direita e de cima para baixo. Veja um grid com 3 colunas e 2 linhas:
-```
 
 Colunas:    |1     2     3     4|
  \---------------------
@@ -34,7 +28,6 @@ Colunas:    |1     2     3     4|
  Linha 2 →  | D |   E   |   F   |
  \---------------------
 
-```
 > Cada "linha de grade" representa uma **divisão entre as células**, não a célula em si. A célula A, por exemplo, vai de `grid-column: 1 / 2` e `grid-row: 1 / 2`.
 
 ---
@@ -176,12 +169,4 @@ O uso de **áreas nomeadas** torna o layout **mais semântico e fácil de manter
 
 👉 No próximo capítulo, vamos entender como **alinhar os itens e o próprio grid** usando `justify-items`, `align-self`, `place-content` e outros.
 
-➡️ [**Capítulo 05 – Alinhamento no Grid**](https://chatgpt.com/g/g-p-67b32319cdf48191b772dac06587dce2-uc15/c/05-alinhamento.md)
-
-```
----
-
-Este capítulo já está pronto para ser salvo como `docs/04-posicionamento.md`.
-
-Deseja que eu siga agora para o Capítulo 5 – Alinhamento no Grid?
-```
+➡️ [**Capítulo 05 – Alinhamento no Grid**](./05-alinhamento.md)

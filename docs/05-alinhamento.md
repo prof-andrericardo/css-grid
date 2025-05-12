@@ -132,5 +132,5 @@ Essas propriedades controlam **como o grid inteiro é posicionado** dentro do es
 
 👉 No próximo capítulo, veremos como tornar o Grid **adaptável a diferentes tamanhos de tela**, criando layouts que funcionam bem tanto no celular quanto no computador.
 
-➡️ [**Capítulo 06 – Grid Responsivo**](https://chatgpt.com/g/g-p-67b32319cdf48191b772dac06587dce2-uc15/c/06-grid-responsivo.md)
+➡️ [**Capítulo 06 – Grid Responsivo**](./06-grid-responsivo.md)
 
