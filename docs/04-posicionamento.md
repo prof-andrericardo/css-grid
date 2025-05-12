@@ -18,19 +18,60 @@ Por padrão, o CSS Grid posiciona os itens **automaticamente** da esquerda para 
 
 ---
 
-## 🔢 2. Linhas do Grid: Numeração
+## 2️⃣ Linhas do Grid: Numeração
 
-No CSS Grid, as linhas **são numeradas a partir de 1**, da esquerda para a direita e de cima para baixo. Veja um grid com 3 colunas e 2 linhas:
+No **CSS Grid**, as **linhas de grade** (ou *grid lines*) são numeradas a partir de `1`:
 
-Colunas:    |1     2     3     4|
+- As **linhas verticais** (colunas) são numeradas da **esquerda para a direita**.
+- As **linhas horizontais** (linhas de conteúdo) são numeradas de **cima para baixo**.
 
- \---------------------
- Linha 1 →  | A |   B   |   C   |
+📌 Essa numeração representa as **divisórias entre as células**, e **não** as células em si.
 
- Linha 2 →  | D |   E   |   F   |
- \---------------------
+### 📐 Exemplo: Grid com 3 colunas e 2 linhas
 
-> Cada "linha de grade" representa uma **divisão entre as células**, não a célula em si. A célula A, por exemplo, vai de `grid-column: 1 / 2` e `grid-row: 1 / 2`.
+Considere o seguinte layout de grid:
+
+Grid Lines:
+ Colunas →   1     2     3     4
+
+ ┌───┬───┬───┐
+
+ Linha 1 →   │ A │ B │ C │
+
+ ├───┼───┼───┤
+
+ Linha 2 →   │ D │ E │ F │
+
+ └───┴───┴───┘
+
+ ↑   ↑   ↑   ↑
+
+ 1   2   3   4   → Linhas de grade (colunas)
+
+![](/home/alunotec/Documents/UC15/css-grid/imagens/cap4_ex1.png)
+
+Cada célula ocupa um intervalo entre duas linhas de grade, tanto na horizontal quanto na vertical.
+
+🔍 Por exemplo, a célula `A` está na **primeira linha** e **primeira coluna** do grid. Ela ocupa:
+
+- `grid-column: 1 / 2` → Começa na linha de grade `1` e vai até antes da linha `2` (ou seja, **ocupa a 1ª coluna**).
+- `grid-row: 1 / 2` → Começa na linha de grade `1` e vai até antes da linha `2` (**ocupa a 1ª linha**).
+
+💡 Assim, se quisermos posicionar um item exatamente na célula `C`, por exemplo, ele estaria em:
+
+- `grid-column: 3 / 4`
+- `grid-row: 1 / 2`
+
+---
+
+📄 **Resumo**
+- As linhas de grade são as linhas **entre** as células.
+- A numeração **começa em 1** e aumenta da esquerda para a direita (colunas) e de cima para baixo (linhas).
+- Para posicionar um item em uma célula, usamos `grid-column: x / y` e `grid-row: x / y`.
+
+---
+
+🔚 **Próximo Tópico**: *Span e posicionamento com grid-area*
 
 ---
 
