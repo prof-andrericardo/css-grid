@@ -48,7 +48,7 @@ Grid Lines:
 
  1   2   3   4   → Linhas de grade (colunas)
 
-![](/home/alunotec/Documents/UC15/css-grid/imagens/cap4_ex1.png)
+![Posicionamento Grid](/home/alunotec/Documents/UC15/css-grid/imagens/cap4_ex1.png)
 
 Cada célula ocupa um intervalo entre duas linhas de grade, tanto na horizontal quanto na vertical.
 
