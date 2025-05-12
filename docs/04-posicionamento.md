@@ -23,8 +23,10 @@ Por padrão, o CSS Grid posiciona os itens **automaticamente** da esquerda para 
 No CSS Grid, as linhas **são numeradas a partir de 1**, da esquerda para a direita e de cima para baixo. Veja um grid com 3 colunas e 2 linhas:
 
 Colunas:    |1     2     3     4|
+
  \---------------------
  Linha 1 →  | A |   B   |   C   |
+
  Linha 2 →  | D |   E   |   F   |
  \---------------------
 
